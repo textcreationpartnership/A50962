@@ -1,0 +1,540 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon preached upon the death of the reverend and godly divine, Mr. Francis Holcroft, late pastor of a congregational church in Cambridgeshire. Who deceased Jan. 6. 1691/2, aged 63. By T.M. preacher of the Gospel.</title>
+            <author>Milway, Thomas, congregational minister.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50962</idno>
+            <idno type="STC">Wing M2188</idno>
+            <idno type="STC">ESTC R214187</idno>
+            <idno type="EEBO-CITATION">99826395</idno>
+            <idno type="PROQUEST">99826395</idno>
+            <idno type="VID">30798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30798)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1764:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon preached upon the death of the reverend and godly divine, Mr. Francis Holcroft, late pastor of a congregational church in Cambridgeshire. Who deceased Jan. 6. 1691/2, aged 63. By T.M. preacher of the Gospel.</title>
+                  <author>Milway, Thomas, congregational minister.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Marshall, an sold at the Bible in Newgate-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692 Where are to be had Mr. Holcroft's elegy.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.M. = Thomas Milway.</note>
+                  <note>Running title reads: A funeral sermon.</note>
+                  <note>Pages 23-28 contain verses.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holcroft, Francis, 1629?-1693 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30798:1" rendition="simple:additions"/>
+            <p>A Funeral Sermon PREACHED Upon the Death of the Reverend and GODLY DIVINE, Mr. FRANCIS HOLCROFT, Late Paſtor of a Congregational Church IN <hi>Cambridgeſhire.</hi> Who Deceaſed <hi>Jan.</hi> 6. 1691/2. Aged 63.</p>
+            <p>By <hi>T. M.</hi> Preacher of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Marſhall,</hi> and Sold at the <hi>Bible</hi> in <hi>Newgate-Street.</hi> 1692. Where are to be had Mr. <hi>Holcroft</hi>'s Elegy.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:30798:2"/>
+            <pb facs="tcp:30798:2"/>
+            <head>An Epiſtle to the Chriſtian Readers.</head>
+            <p>THIS Province of Preaching at the Funerals of our much Reverend Brother Mr. <hi>Francis Holcroft</hi> Deceaſed, was by Divine Lot devolved upon our Worthy Brother Mr. <hi>Milway,</hi> Paſtor of a Church of Chriſt in <hi>Bury</hi> in <hi>Suffolk:</hi> Who (notwithſtan<g ref="char:EOLhyphen"/>ding the rude inſoleney of the abſurd Scholars diſturbing the whole Aſ<g ref="char:EOLhyphen"/>ſembly at that time, and therein highly affronting the preſent Generous Government) was much aſſiſted by the Lord, and performed it (by his Grace) with great Majeſtick boldneſs and gravity, to their confuſion of face, and our expected ſatisfaction: The Sermon now Printed, we recom<g ref="char:EOLhyphen"/>mend to you as very nervous, and much adapted to the occaſion; it was to us in the hearing of it as a very lovely Song of one that had a pleaſant voice,<note place="margin">Ezek. 33.32.</note> and could play well on an Inſtrument: What was ſaid in praiſe of the Perſon, was but a juſt debt, and the payment was rather under than over. Read the Sermon, and may it be as ſweet and profi<g ref="char:EOLhyphen"/>table to you in reading, as to us in hearing. One of our Prophets, and that none of the Minor Prophets, but to us a great one in <hi>Iſrael,</hi> is dead, as to his Body, yet lives in his ſpirit in Glory. May his words of Do<g ref="char:EOLhyphen"/>ctrine, Counſel, Conduct, Comfort, which already have taken bold on the hearts of many in <hi>Cambridgeſhire,</hi> and many other places, abide and produce much fruit. Knowing aſſuredly, that his words of threat<g ref="char:EOLhyphen"/>ning which he denounced, will overtake the ſcorners that ridiculed the Saints at his Funerals, contradicting and blaſpheming: And like as the Lord thought to do unto them according to their ways and doings,<note place="margin">Zech. 1.4, 6.</note> ſo will he deal with them, if they do not hear and hearken to the Lord, and turn from their evil ways and doings. May the Prophets that ſurvive, attain in their Miniſtry to the height of this ex<g ref="char:EOLhyphen"/>cellent perſon, who as to Gifts, as <hi>Saul</hi> for ſtature among his Brethren,<note place="margin">1 Sam. 10.23</note> taller by the head and ſhoulders was, and to us in our day one of <hi>David</hi>'s Chieftains and mighty Warriers by the ſword of the Spirit, the Word of God; doing great and good execution. We queſtion not but great is his reward in Heaven, yet a reward of Grace; he ſits now (and will ſit both in Soul and Body) in a high place in Glory. This Teacher ſhall
+<pb facs="tcp:30798:3"/>ſhine as the Stars,<note place="margin">Dan. 12.3.</note> and as the brightneſs of the Firmament, having tur<g ref="char:EOLhyphen"/>ned many not only from ſin, but unto righteouſneſs <hi>(i. e.)</hi> juſtified them, by turning them to the imputed righteouſneſs of Chriſt; a Do<g ref="char:EOLhyphen"/>ctrine much deſpiſed by many of the Prophets of our Age. In fine, it pleaſed the Lord, that after this our ſmall Apoſtle had in the body been frequently wrapt up into Heaven in our view in Prayer and Preaching; or rather Heaven deſcending into him, and upon him, in high communi<g ref="char:EOLhyphen"/>on and enjoyments of God, in which he had ſuch Illuminations, that he was not able to utter and expreſs;<note place="margin">2 Cor. 12.9, &amp;c.</note> It pleaſed God, leſt he ſhould be exal<g ref="char:EOLhyphen"/>ted above meaſure, through the abundance of theſe diſcoveries, that a meſſenger of Satan ſhould be ſent to buffet him; and though the Lord was beſought abundantly by himſelf, and many others; yet would not the Lord cauſe it wholly to depart: He giveth not account of any of his matters, he is Soveraign Lord of all; is in one mind, who can turn doth whatever he will in Heaven and Earth, and laughs at the trial of the innocent.<note place="margin">Job 33.13. Job 23.13. Job 9.23.</note> Yet before his death, and in his dying, the Grace of God was ſufficiently manifeſted to him, and we may make uſe of that Notion ſome had of the death of <hi>Moſes,</hi> viz. when it is writ<g ref="char:EOLhyphen"/>ten, <hi>Deut. 34.5. That Moſes died in the land of Moab accor<g ref="char:EOLhyphen"/>ding to the word of the Lord.</hi>
+               <note place="margin">Deut. 34.5.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Or by or upon the mouth of the Lord.</hi> That <hi>Jehovah</hi> kiſſed <hi>Moſes</hi> when he died, as the Mo<g ref="char:EOLhyphen"/>ther takes the ſleeping child into bed, her cheek by the Childs cheek in her tender embraces; ſo may we ſay of this our Brother <hi>Francis,</hi> Jeho<g ref="char:EOLhyphen"/>vah kiſſed him with the kiſſes of his mouth, at his departure out of this world,<note place="margin">Cant. 1.2.</note> having given him a praelibation of glory in his ſpirit, and he now both Soul and Body recumbs in the everlaſting arms and boſom of Infi<g ref="char:EOLhyphen"/>nite Love.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>THOMAS TAYLOR.</item>
+                     <item>JOSEPH HUSSEY.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>EPITAPH.</head>
+            <l>ENtomb his Body, conſecrated duſt,</l>
+            <l>Until the Reſurrection of the juſt.</l>
+            <l>It was a temple full of the Holy Ghoſt,</l>
+            <l>In which the Lord did dwell, the Lord of Hoſt.</l>
+            <l>Entomb't with higheſt greateſt ſtate<g ref="char:EOLhyphen"/>ly Glory;</l>
+            <l>And get ſome <hi>Fox,</hi> ſome <hi>Clerk</hi> to write his Story</l>
+            <l>Anoint his Herſe with ſweet Per<g ref="char:EOLhyphen"/>fumes of Fame:</l>
+            <l>Hath any left behind more fragrant Name!</l>
+            <l>When Chriſt ſhall come with Troops of Cherubims;</l>
+            <l>And with this Glittering Winged Se<g ref="char:EOLhyphen"/>raphims,</l>
+            <l>He'l raiſe this Temple one of th' firſt you'l ſee.</l>
+            <l>And th' ſecond Temple ſhall more Glorious be</l>
+            <l>Than was the firſt, in that Chriſt's Perſon will</l>
+            <l>Be preſent with him, and him rich<g ref="char:EOLhyphen"/>ly fill.</l>
+            <bibl>
+               <hi>WILL. HAWORTH.</hi>
+            </bibl>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:30798:3"/>
+            <head>A Funeral Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ZECH. I. 5, 6.</hi>
+                  </bibl>
+                  <p>Your fathers, where are they? and the prophets, do they live forever? But my words and my ſtatutes which I commanded my ſervants, the prophets, did they not take hold of your fathers? and they return<g ref="char:EOLhyphen"/>ed, and ſaid, Like as the Lord of hoſts thought to do unto us, according to our ways, and according to our doings, ſo hath he dealt with us.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g>R fathers, where are they? and the prophets, do they live for ever?]</hi> After the return of this People out of the <hi>Babyloniſh</hi> Captivity, (that Pit in which was no Water, in the 9th Chapter) out of which they were brought by the Blood of the Covenant) God raiſed up two Prophets, <hi>Haggai,</hi> and this <hi>Zechary,</hi> to ſtir them up to Build the Tem<g ref="char:EOLhyphen"/>ple of the Lord, and to ſettle his Worſhip therein;
+<pb n="2" facs="tcp:30798:4"/>the Province of this <hi>Zechary</hi> was in God's Name to call the People to return to God, Verſe 3. <hi>There<g ref="char:EOLhyphen"/>fore ſay thou unto them, Thus ſaith the Lord of hoſts; Turn ye unto me, ſaith the Lord of hoſts, and I will turn unto you, ſaith the Lord of hoſts.</hi> A very great Allective and Inducement to return to him, for he will be reconciled. The Favour of God is better than Life. And, <hi>Thus ſaith the Lord of hoſts, Thus ſaith the Lord of hoſts, Thus ſaith the Lord of hoſts, Re<g ref="char:EOLhyphen"/>turn;</hi> it is the Call of that God that can arm all in Heaven and Earth againſt you. One great ob<g ref="char:EOLhyphen"/>ſtacle to Converſion, is our Imitation of our Fa<g ref="char:EOLhyphen"/>thers. It is very common with Perſons to ſpeak of the Dignity of their Progenitors, and yet to imi<g ref="char:EOLhyphen"/>tate them in their Sins. <hi>Be ye not as your Fathers,</hi> (Verſe 4.) <hi>to whom the former prophets cried.</hi> So in the <hi>New Teſtament,</hi> Hebr. 3.7. <hi>To day if you will hear his voice, harden not your hearts as your fathers did in the day of temptation, altho they ſaw my works,</hi> (ſo we ſhould read it.) Altho they ſaw his works, yet they provoked him. <hi>Be ye not as your fathers, unto whom the former prophets have cried, ſay<g ref="char:EOLhyphen"/>ing, Thus ſaith the Lord of hoſts, Turn ye now from your evil ways, and from your evil doings; but they did not hear, nor hearken unto me, ſaith the Lord.</hi>
+            </p>
+            <p>The Words, the 5th and 6th Verſes, ſome appre<g ref="char:EOLhyphen"/>hend are brought in by way of Dialogue. God ſpeaking by the Prophet to the People, <hi>Where are your fathers?</hi> They are not; their Carkaſſes fell in the Wilderneſs, and they died under the Diſplea<g ref="char:EOLhyphen"/>ſure of God in the Captivity. In the ſecond Verſe, <hi>The Lord hath been ſore diſpleaſed with your fathers.
+<pb n="3" facs="tcp:30798:4"/>Where are your fathers?</hi>
+               <note place="margin">Numb. 32.</note> Hath not <hi>Moſes</hi> ſaid in ano<g ref="char:EOLhyphen"/>ther Caſe, You are riſen up in your Fathers ſtead, a Generation worſe than them. They do as it were retort it upon God, And where are <hi>the Prophets, do they live for ever?</hi> Our Fathers indeed are dead, but yet God doth not keep his Prophets alive. But ſaith God, Tho they dye, my Word lives, and ſhall have its effect, and certain accompliſhment.</p>
+            <p>There are two or three things in the Words.</p>
+            <p n="1">I. A Conceſſion, that God's Prophets do not live for ever. <hi>The Prophets, do they live for ever?]</hi> They are mortal Men, corruptible. So that in this caſe, I may ſay, as in Hebr. 7.23.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>They truly (the prieſts) were many, becauſe they were not ſuffered to continue by reaſon of death.</hi> They were prohibited to go on in the diſcharge of their Office; Death ſuperſeded them. So the Prophets of God, they were not ſuf<g ref="char:EOLhyphen"/>fered to continue by reaſon of Death. <hi>Aaron</hi> was a great Man, employed of God in the Prieſthood; but (<hi>Numb.</hi> 20.25, 26) ſaith God to <hi>Moſes, Let Aaron go up to mount Hor,</hi> and there let him dye. A while after, the ſame Fate took hold on <hi>Moſes,</hi> Deut. 32.49. <hi>Get thee up into this mount,</hi>— and dye in the mount whither thou goeſt up,—as <hi>Aaron</hi> thy Brother died in Mount <hi>Hor.</hi> Yet this <hi>Moſes,</hi> it is ſaid of him, Chap. 34.10. <hi>There aroſe not a prophet ſince in Iſrael like unto Moſes.</hi> If you would out-do him, turn your Eye upon Chriſt. There aroſe not a Prophet in <hi>Iſrael</hi> like him. And yet both he and his Brother <hi>Aaron</hi> died under ſome diſpleaſure of God, Deut. 32.51. <hi>Becauſe ye treſpaſſed againſt me at the wa<g ref="char:EOLhyphen"/>ters of Meribah;</hi>— <hi>becauſe ye ſanctified me not in the midſt of the children of Iſrael.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:30798:5"/>
+               <hi>The Prophets, do they live for ever?]</hi> 'Tis well that they die their fair Death. <hi>O Jeruſalem, Jeruſa<g ref="char:EOLhyphen"/>lem, thou that killeſt the prophets! how oft would I have gathered your children, and ye would not.</hi> — Some wreſt this Scripture for the maintenance of <hi>Arminianiſm;</hi> but if you obſerve it, the Text is a plain Text, <hi>How oft would I have gathered your chil<g ref="char:EOLhyphen"/>dren, and you would not;</hi> you <hi>Jeruſalem,</hi> you great Men. I believe it hath been ſome complaint of Jeſus Chriſt againſt this Land. And ſometimes the Difficulties that attend the Service of God's Prophets make them covet Death, 1 <hi>Kings</hi> 19. When <hi>Jezabel</hi> ſware by her Gods, that ſhe would have the Life of <hi>Elijah,</hi> he ſaid, <hi>Lord, let me die.</hi> He was a Man of like Paſſions with us, and we with him.</p>
+            <p n="2">II. Tho the Prophets die, and do not live for ever, yet the Word of God does not die; the Word of God lives and abides for ever. <hi>But my word and my ſtatutes, which I commanded my ſervants, did they not take hold of your fathers?</hi> The Pro<g ref="char:EOLhyphen"/>phets die, but my Word lives, faith God, and hath ſtrength, and can apprehend you, and ſlay you; thou haſt ſlain them with the Word of thy Mouth. The Apoſtle ſaith, <hi>The word of the Lord is not bound;</hi> the Miniſters of it are bound; but the Word of the Lord is not bound. The Prophets die, but the Word of the Lord retains it ſtrength and force. <hi>Did not my words take hold on your Fathers?</hi>
+               <note place="margin">The Hebrew, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>attigit, appre<g ref="char:EOLhyphen"/>hendit.</hi> Is to overtake, and catch, as Huntſmen the Prey, or one Enemy another in flight.</note> Hebrew, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Did they not find them out?</hi> Your Sins will find you out, and ſo will God's word find you out; and the Word of God purſues you at the
+<pb n="5" facs="tcp:30798:5"/>heels, and lays hold on you. If you do not lay hold on God's ſtrength, and make Peace with him, there will be a hand ſtretcht out to <hi>apprehend</hi> you, <hi>Pſal.</hi> 40.12. where the word is.</p>
+            <p>
+               <hi>Did not my words take hold on your Fathers?] The Pro<g ref="char:EOLhyphen"/>phets die,</hi> 1 <hi>King.</hi> 13. <hi>There came a man of God out of Judah by the word of the Lord unto Bethel;</hi> — <hi>and cri<g ref="char:EOLhyphen"/>ed againſt the Altar in the word of the Lord, and ſaid, O Altar, Altar, thus ſaith the Lord, Behold a child ſhall be born unto the Houſe of David, Joſiah by name, and upon thee ſhall he offer the Prieſts of the high places,</hi> &amp;c. Not<g ref="char:EOLhyphen"/>withſtanding this Prophet was killed before he got home, the word of God lived and took place, and took hold on him, 2 <hi>King.</hi> 23.17. Saith <hi>Joſiah, Joſiah</hi> by name, (God can name a man 300 years before he rai<g ref="char:EOLhyphen"/>ſeth him up) ſaith he, <hi>What Title is this that I ſee? And the men of the City told him, It is the Sepulchre of the Man of God which came from Judah, and proclaimed theſe things which thou haſt done againſt the Altar of Bethel.</hi> The Word of God lives, and hath an Infallible accom<g ref="char:EOLhyphen"/>pliſhment.</p>
+            <p n="3">III. The Lord doth extort an acknowledgment of this; <hi>(Though the Prophets die, yet my words live and are quick and powerful, they take hold on men.)</hi> An Acknow<g ref="char:EOLhyphen"/>ledgment of it: <hi>And they returned and ſaid, Like as the Lord of Hoſts thought to do unto us according to our ways, and according to our doings,</hi>
+               <note place="margin">Joſh. 23.14, 15.</note> 
+               <hi>ſo hath he dealt with us.</hi> God will magnifie his Word,<note place="margin">1 Sam. 2.30.</note> and aſſert the honour and reputation of his Prophets.</p>
+            <p>Now that that I would teach you, is,<note place="margin">Obſerv.</note> Though the Prophets of God die, though the Miniſters of Chriſt do not live for ever, yet the Word of God diſpenſed by them lives, and will have its certain infallible ac<g ref="char:EOLhyphen"/>compliſhment,
+<pb n="6" facs="tcp:30798:6"/>upon Nations, Churches and Per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Thoſe that God calls to, and makes uſe of in the Miniſtry about Holy things, they differ in their Gifts, in their Graces, in their Judgments, ſometimes in their ſervice and uſefulneſs in the Church of God<g ref="char:punc">▪</g> but they all agree here, they die as others do. <hi>Ye build the Tombs of the Prophets:</hi> (The Prophets have their Tombs, and Righteous men their Sepulchres) ſaith Chriſt,<note place="margin">Matth. 23.</note> 
+               <hi>Ye build and garniſh them;</hi> (and there is a Generation of men that love God's Prophets beſt when when they are dead) <hi>And ye are the children of them which killed the Prophets;</hi> that is, ye imitate them, <hi>Jer.</hi> 11.19. <hi>They deviſed devices againſt me, ſaying, Let us deſtroy the Tree with the Fruit thereof.</hi> It is in the Margent, <hi>Let us deſtroy the ſtaff with the bread;</hi> the Prophets, the Miniſters of God bring the Bread of Life to you. <hi>Let us deſtroy the ſtaff with the bread.</hi> (Hebr. <hi>Pane</hi>) (<hi>Perdamus culmum cum grano ejus,</hi> as <hi>Junius</hi> renders it:) We render it, <hi>Let us deſtroy the Tree with the Fruit.</hi> The meaning is this, Let us kill the Prophet, and there's an end of his Prophecy. But they were mi<g ref="char:EOLhyphen"/>ſtaken; when they had done that, God will make his Word to take place.</p>
+            <p>There are two things I would open to you:
+<list>
+                  <item>1. That the Prophets of God do not live for ever; we are all ſenſible of it. The Lord teacheth us it this day; <hi>The Prophets do not live for ever.</hi> But,</item>
+                  <item>(2.) Though they do not live, yet the Word of God lives, and will have its effect upon men for good or for evil.</item>
+               </list>
+            </p>
+            <p n="1">
+               <pb n="7" facs="tcp:30798:6"/>
+(1.) <hi>The Prophets do they live for ever?]</hi> Conſider two or three things.</p>
+            <p n="1">1. The Prophets of God are ſubject to the ſame Law that others are. There is a Stature-Law that is not reverſed, and there are ſo few I think is never tranſgreſſed:— There have been ſome few excepti<g ref="char:EOLhyphen"/>ons; but it will not be repealed till Chriſt hath ſwal<g ref="char:EOLhyphen"/>lowed up Death in Victory. The Prophets of God and Righteous men are obnoxious to it as well as o<g ref="char:EOLhyphen"/>thers. <hi>Heb.</hi> 9.27. <hi>And as it is appointed to men <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to die, and after this the judgment. It is appointed,</hi> (Gr. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>it is decreed.</hi>) It is decreed to all, it is ena<g ref="char:EOLhyphen"/>cted, and the Prophets have no exemption. Yea, that Man Chriſt Jeſus the Mediator and great High Prieſt, He was under this Law: He was made under the Law: He was to die: And by one offering for ever perfected them that are dedicated to God. <hi>It is ap<g ref="char:EOLhyphen"/>pointed to all men once to die;</hi> and to die penally, by the force of that threatning, <hi>Gen.</hi> 2<g ref="char:punc">▪</g> 17. <hi>In the day thou eateſt thereof thou ſhalt ſurely die.</hi> Chriſt died Penally, <hi>He was made a curſe;</hi> and his dying ſo, hath delivered ſome, that they ſhall not die Penally. But to die Naturally, that continues to all; to the Pro<g ref="char:EOLhyphen"/>phets, and them that fear him, as well as others, <hi>Rom.</hi> 8.10. <hi>If Chriſt be in you, the body is dead becauſe of ſin, but the ſpirit is life becauſe of righteouſneſs.</hi> If Chriſt be in you, though there be that happy union, yet he lets the Body be arreſted by Death, the Body is dead: Believers Bodies, the Bodies of his Mini<g ref="char:EOLhyphen"/>ſters, of his Prophets are dead; that is, Obnoxious to Death. I think it hath reference to the ſecond verſe: <hi>The law of the ſpirit of life in Chriſt Jeſus hath made me free from the law of ſin and death.</hi> How from the law of ſin, he had ſhewed before; here he come to
+<pb n="8" facs="tcp:30798:7"/>ſhew how from the law of Death. The Body is dead, and that is by ſin. Sin brought in death. <hi>Adam</hi> had not died if he had not ſinned; and there being the reliques of ſin, Sin that dwells in Believers them<g ref="char:EOLhyphen"/>ſelves, the vitioſity and corruption of nature, ſome<g ref="char:EOLhyphen"/>thing of ſin found in them, they muſt die; there's no help, we muſt die. The ſpirit (I think 'tis the ſoul) is life, and capable of living with God in a ſeparate ſtate, and ſhall be in the fruition of God; and the Body ſhall at length be joyned with it. And as a pledge of it this is added, <hi>The ſpirit is life becauſe of righteouſneſs.</hi> What God doth in ſanctifying of his own here, is a pledge to them that their whole man ſhall live with him hereafter.</p>
+            <p n="2">2. <hi>The Prophets, do they live for ever?]</hi> They are Stewards, Ambaſſadors, Labourers; and ſo Chriſt will not have them live for ever.</p>
+            <p>They ſhall have their Reward. They ſhall come and tell what is the iſſue of their performing their Embaſſy in the world; What reception they had; How they were uſed.</p>
+            <p n="1">1. <hi>We are Stewards of the Myſtery and manifold Grace of God;</hi>
+               <note place="margin">1 Cor. 4.1, 2.</note> and Wiſdom and Faithfulneſs are re<g ref="char:EOLhyphen"/>quired in a Steward. A Steward ſhould be Wiſe and Faithful; the Lord make us ſo, who have a Ste<g ref="char:EOLhyphen"/>wardſhip from him. We muſt give an account of our Stewardſhip, and you to whom we give a por<g ref="char:EOLhyphen"/>tion of meat in due ſeaſon, ſhould take ſome care that we give up our accounts with joy, and not with grief. Chriſt will call his Stewards to account; they muſt tell what they have done with their Talents, how they have improved and gained.</p>
+            <p n="2">
+               <pb n="9" facs="tcp:30798:7"/>
+2. They are Ambaſſadors alſo;<note place="margin">2 Cor. 5.19. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, placed, or depoſited in us.</note> they have the word of Reconciliation committed to them; they have it in them; and they treat with you about the high<g ref="char:EOLhyphen"/>eſt concerns. <hi>We pray you be ye reconciled to God:</hi> We pray you in Chriſt's ſtead; if he had not other work to do in Heaven, he would come and Preach to you himſelf; but we do it in his ſtead. Now is it not your advantage to be friends with God? But we muſt go back and give an account what recep<g ref="char:EOLhyphen"/>tion we have had in the world. Ambaſſadors will be called home, they will not always lye Lieger here below.</p>
+            <p n="3">3. I might ſhew you this alſo for Labourers; the day declines:<note place="margin">1 Cor. 3.9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Co-workers. God makes uſe of their labour.</note> and a man that hath wrought hard all the heat of the day, is willing to go to reſt. <hi>A ſer<g ref="char:EOLhyphen"/>vant earneſtly deſires the ſhadow,</hi> Job 7.2. <hi>And the ſleep of the labouring man is ſweet to him.</hi>
+            </p>
+            <p n="3">3. <hi>The Prophets do they live for ever?]</hi> Jeſus Chriſt hath Rewards for them, ſmall and great, <hi>Rev.</hi> 11. <hi>The time is come</hi>—<hi>that thou ſhouldeſt give reward to thy ſervants the Prophets, and to the Saints, and them that fear thy name, ſmall and great,</hi> &amp;c. which is ſome<g ref="char:EOLhyphen"/>times the only relief and ſupport we have, when we cry out, <hi>We have laboured in vain,</hi>
+               <note place="margin">Iſa. 49 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> humidum radicale.</note> 
+               <hi>and ſpent our ſtrength for nought:</hi> The radical moiſture is dried up; the Bellows are burnt; we have no lungs to ſpeak more to you. Well, Chriſt hath rewards for his Prophets and Servants in Heaven, <hi>Great is your re<g ref="char:EOLhyphen"/>ward in Heaven.</hi> There's no getting to Heaven with<g ref="char:EOLhyphen"/>out dying. It may be you would be willing to be fetched in Chariots of fire, but that is not every man's lot. We have our work to do. Jeſus Chriſt
+<pb n="10" facs="tcp:30798:8"/>was his Father's ſervant, an extraordinary one, to do extraordinary work; he finiſhed it, and glorified God on earth, and then God glorified him with him<g ref="char:EOLhyphen"/>ſelf. Thus it is with Chriſt's ſervants; they have their work to do, they are to finiſh it, and to glori<g ref="char:EOLhyphen"/>fie God here below, and then God gathers them up, and rewards them; they have their reward; their works follow them. <hi>They die in the Lord, and ceaſe from their labour, and their works follow them,</hi> (<hi>Rev.</hi> 14.) in the Reward of them.</p>
+            <p n="4">4. <hi>The Prophets die;</hi> and God will thereby chaſtiſe an ungrateful world, and puniſh the barrenneſs of them that have enjoyed their Miniſtry. You had need fear and tremble before him, leſt he do ſo by you. When the Vineyard is barren, God will ei<g ref="char:EOLhyphen"/>ther take away the hedge, and fling it up to be a prey to the beaſts of the wood; elſe he will take a<g ref="char:EOLhyphen"/>way the dreſſer; he ſhall no more dig and prune it, no more labour ſhall be ſpent upon it, no more coſt and pains ſhall be taken with it. Saith God, the rain came oft upon it, and it brought forth briars and thorns; ſuch are nigh unto curſing, and their end is to be burnt.</p>
+            <p>
+               <hi>The Prophets live not for ever.]</hi> God will teach you by it, that your ſeaſon will not always laſt. Know your time, as Chriſt ſaid, <hi>Job.</hi> 12.35. <hi>Yet a little while is the light with you: Walk while ye have the light, leſt darkneſs come upon you; For he that walketh in darkneſs knoweth not whither he goeth.</hi> (The next ſtep may be Hell.) <hi>While ye have the light, believe in the light, that ye may be the children of light.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:30798:8"/>
+But I will go off that, and give a little account of the ſecond, and ſo come to the Uſe.</p>
+            <p n="2">(2.) <hi>Though the Prophets live not for ever, yet the Word of God lives.</hi> Do but conſider a little:</p>
+            <p n="1">1. The Prophets of God uſe to come with their Menaces, the threatning part of God's Word; and though the threatning you think is always Condi<g ref="char:EOLhyphen"/>tional, and leaves ſpace for Repentance; (this made the Prophet <hi>Jonah</hi> refuſe to go on his Errand: <hi>I knew,</hi> ſaith he, <hi>that thou art a gracious God, and mer<g ref="char:EOLhyphen"/>ciful, ſlow to anger, and of great kindneſs, and wouldſt repent thee of the evil;</hi> and ſo I ſhould have my Re<g ref="char:EOLhyphen"/>putation ſtained: <hi>Go and preach to Niniveh, and ſay, Yet forty days and Niniveh ſhall be deſtroyed; and then God repent:</hi> They will ſay, There's a lying Prophet.) Yet let me tell you, when God denounceth his Judg<g ref="char:EOLhyphen"/>ments, ſometimes he puts his Oath to the Threaten<g ref="char:EOLhyphen"/>ing, ſwears to the matter, and then it is irrever<g ref="char:EOLhyphen"/>ſible. <hi>As I live, ſaith the Lord, my heart cannot be towards this people.</hi>
+            </p>
+            <p>And as the Miniſtry of the Prophets had a Mina<g ref="char:EOLhyphen"/>tory part, ſo truly the Goſpel hath Threatnings, moſt ſevere ones. <hi>Mark</hi> 16.16. <hi>He that believeth, and is haptized, ſhall be ſaved; and he that believeth not ſhall be damned.</hi> Words that came out of the gracious mouth of the Son of God. <hi>Hebr.</hi> 2.3. <hi>How ſhall we eſcape if we neglect ſo great Salvation?</hi> There's no eſcaping Damnation. The Word of God lives. The very Threatning lives. Though the prophets die, God will take care to make good his threatning; be ſure he will do it, when
+<pb n="12" facs="tcp:30798:9"/>he ſwears in wrath we ſhall never enter into his reſt.</p>
+            <p n="2">2. The Word of God abides too, as it compri<g ref="char:EOLhyphen"/>zeth the Promiſes, which are a declaration of God's Grace and good will towards men. This was part of the Prophets Office, to publiſh the Promiſe, <hi>Luk.</hi> 1.69. <hi>He hath raiſed up an Horn of Salvation for us, as he ſpake by the mouth of his holy Prophets ſince the world began, to perform the mercy promiſed to our Fa<g ref="char:EOLhyphen"/>thers, &amp;c.</hi> So the Apoſtle <hi>Peter,</hi> ſaith he, <hi>The ſpi<g ref="char:EOLhyphen"/>rit of God ſpake by the Prophets concerning Chriſt, his Sufferings, and the Glory that ſhould follow.</hi> So the Miniſters of the New Teſtament, O how they love to Preach the New Covenant, and all the Promiſes for the relief of diſtreſſed ſinners! It is the moſt pleaſing part of their work, 2 <hi>Cor.</hi> 1.20. <hi>For all the Promiſes of God in him</hi> (in Chriſt) <hi>are yea, and in him Amen, to the Glory of God by us.</hi> God glo<g ref="char:EOLhyphen"/>rifies himſelf by us; God glorifies his faithfulneſs in performing his Promiſes by our Miniſtry. The Pro<g ref="char:EOLhyphen"/>miſe lives; for God lives whoſe the Promiſe is: He cannot lye, nor cannot change. He ſhews by it the Immutability of his Counſel, that the heirs of Salvation may have ſtrong conſolation.</p>
+            <p>God's Prophets and Miniſters they die; but the Word diſpenſed by them, that lives; it hath its fulfillment. Our work is to declare the whole counſel of God to you that concerns your Salvati<g ref="char:EOLhyphen"/>on; and God doth cauſe his Prophets to ſtand in his Covenant, and the ſecrets of God are with them. Saith the Apoſtle, <hi>Acts</hi> 20. <hi>I have not ſhun<g ref="char:EOLhyphen"/>ned to declare to you the whole counſel of God, and have kept back nothing that was profitable for you,
+<pb n="13" facs="tcp:30798:9"/>Preaching Repentance towards God, and Faith towards the Lord Jeſus.</hi> — His Counſel ſhall ſtand. <hi>You ſhall ſee my face no more, ſaith he to them,</hi> verſe 38. But this whole Counſel of God, which I have de<g ref="char:EOLhyphen"/>clared, ſhall be fulfilled; and there is no Perſon, no Churches that do reject the Counſel of God, but it is againſt themſelves, <hi>i. e.</hi> to their own ruin, <hi>Luke</hi> 7.30.</p>
+            <p>The Word of God lives; the Prophets dye, but the Word of God lives. The Word of God diſ<g ref="char:EOLhyphen"/>penſed by us, is as ſeed ſown, though it ſeem to dye under the Clods, yet it will live again; the Lord gives it a Body, or rather a Spirit. And ſo l Peter 1.23.— <hi>Being born again, not of corruptible ſeed, but of incorruptible; by the word of God which liveth and abideth for ever.</hi> In all Productions there is ſome Seed out of which the Creature is brought forth, ſo it is in the new Creature. — <hi>Born of the incorruptible ſeed, the word which we Preach to you;</hi> and this Word lives and abides for ever; and if it be turned into a vital Principle in your Souls, that will abide too; it will be the Seed of God that remains. And though in our ſowing we go forth with precious Seed, we wiſh it might alike proſper; but we do not always meet with good Ground; that which falls into good Ground, by the bleſſing of God brings forth Fruit, ſome more, and ſome leſs. The Word of God lives, the Prophets dye, the Miniſters of Chriſt dye; but their Word lives and will take place.</p>
+            <p>Now I would make ſome Application.</p>
+            <p>
+               <hi>The Prophets, do they live for ever?]</hi> No, they do not live for ever; they are Mortal and Frail;
+<pb n="14" facs="tcp:30798:10"/>they dye ſooner than other Men; their Labours are great, and that they do not live for ever, I would have you make theſe two or three Uſes of it.</p>
+            <p n="1">1. Think with your ſelves, God's Prophets and Miniſters dye. It becomes us to have our hearts affected with it, to put our hearts to this matter, Iſaiah 57.1. <hi>The righteous periſh,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to pe<g ref="char:EOLhyphen"/>riſh here, is to dye; he is ta<g ref="char:EOLhyphen"/>ken away, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>In u<g ref="char:EOLhyphen"/>num collegere.</hi> He is gathered to his Fathers, and no Man, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ponens ſuper Cor.</hi> 1. <hi>qui caret Schindler.</hi>
+               </note> 
+               <hi>and no man lays it to heart.</hi> The Lord will take notice how you are affected this day for this Prophet. <hi>The righ<g ref="char:EOLhyphen"/>teous periſh, and no man layeth it to heart, and merciful men are taken away, none conſidering that the righteous is taken away from the evil to come; he ſhall enter into peace.</hi> Bleſſed be God for that Admiſſion into Peace, God hath given his Servant. <hi>He ſhall enter into peace, they ſhall reſt in there beds;</hi> (— the Grave is a cold Bed; but really ever ſince Chriſt lodged in it, it is ſo perfumed, that we need not be afraid to lie down and ſleep) <hi>each one walking in his uprightneſs.</hi> But, ſaith he, <hi>The righteous periſh,</hi> (it is Dying, <hi>Lord we periſh,</hi> ſaith the Diſciples) <hi>and no man lays it to heart.</hi> It is the Complaint of God, that we are not duly affected when he cauſeth a righteous Man to periſh. Now, the dying of a Prophet is more than the periſhing of a righteous Man. <hi>He that gives to a Righteous Man a Cup of Water in the Name of a Righteous Man, ſhall have a Righte<g ref="char:EOLhyphen"/>ous Mans reward. And he that receiveth a Pro<g ref="char:EOLhyphen"/>phet in the Name of a Prophet, ſhall receive a Prophets reward.</hi> Shall a Prophet dye, and, ſhall not we put our heart to it? O! to think ſuch a one is removed, who uſe to give us ſuch Inſtru<g ref="char:EOLhyphen"/>ction,
+<pb n="15" facs="tcp:30798:10"/>ſuch Reproof, ſuch Conſolation; to give Milk to Babes, and ſtrong Meat to Men; that had the Tongue of the Learned to ſpeak a word in Sea<g ref="char:EOLhyphen"/>ſon to them that are weary, but now we ſhall hear him no more; nothing will drop from his Lips any more. He is gone into his Bed, and as to any uſe he can be of, is periſhed. <hi>Let us lay our hearts to it.</hi>
+            </p>
+            <p n="2">2. If the Prophets dye, and do not live, you that have enjoyed their Miniſtry, Oh! how high<g ref="char:EOLhyphen"/>ly doth it concern you to follow their Faith, ob<g ref="char:EOLhyphen"/>ſerving the end of their Converſation, Hebr. 13.7. <hi>Remember them that have the rule over you, who have ſpoken to you the word of God: whoſe faith follow, conſidering the end of their converſation.</hi> He ſpeaks of them that had been guides to them, and had ſpoken the word of God, but they were dead and gone; the Lord had removed them, and ga<g ref="char:EOLhyphen"/>thered them up to himſelf; they have ſpoken to you the Word of God. Now, ſaith he, whoſe Faith follow. That glorious Goſpel of the Bleſſed God that they preached to you, that Faith follow, and imitate it, that your hearts may be eſtabliſhed in the true Grace of the Goſpel. And remember, bear in mind, how they uſed to live by Faith, and vigorouſly to act it upon the Son of God; do you imitate it, follow the ſteps of their Faith; obſer<g ref="char:EOLhyphen"/>ving the end of their Converſation (<hi>Gr.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.) <hi>The end of their Converſation;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Sig<g ref="char:EOLhyphen"/>nifies an end accompanied with delive<g ref="char:EOLhyphen"/>rance from, and Conqueſt over Difficul<g ref="char:EOLhyphen"/>ties and Dan<g ref="char:EOLhyphen"/>gers.</note> what God hath brought them to; what iſſue and period God hath put to them and their days, obſer<g ref="char:EOLhyphen"/>ving <hi>the end of their Converſation.</hi> 1 Cor. 10.13. <hi>God makes a way of eſcape out of temptation.</hi> God deli<g ref="char:EOLhyphen"/>vers
+<pb n="16" facs="tcp:30798:11"/>them from all their Sins and Sufferings; wipes all Tears from their Eyes; makes a good End with them. Mark the perfect Man, and obſerve the Up<g ref="char:EOLhyphen"/>right, the end of that Man is Peace. This is your Duty.</p>
+            <p>And there is one thing more, and that is, When the Prophets dye, do you take care that when the Prophets of God are admitted into the Kingdom of Heaven, that you be not ſhut out. It will be a very great Aggravation, it will aggrandize your Miſery to enjoy ſuch Propheſy, ſuch Preaching, and then the Prophets dye, and go to Heaven; when you come to dye, to go to another place, Luke 13.28. <hi>There ſhall be weeping and gnaſhing of Teeth, when you ſhall ſee Abraham, and Iſaac, and Jacob, and all the prophets in the kingdom of heaven, and you your ſelves thruſt out.</hi> O think with your ſelves, what will be the anguiſh of thoſe that periſh from under ſuch a Miniſtry! What, ſhall I periſh now from un<g ref="char:EOLhyphen"/>der ſuch a Miniſtry! That's one Uſe: <hi>Have a care you be not thruſt out.</hi> The Prophets come and Preach the Kingdom of God to you; and having the Key of Knowledge, they open the Door. <hi>Come,</hi> ſay they, <hi>enter the kingdom, take it by violence.</hi> And it may be many will neither go in themſelves, nor ſuffer others to enter in. When the <hi>prophets go to heaven, have a care leſt you ſhould be ſhut out.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> (2.) Tho the Prophets dye, yet the Word of God lives. Remember that, God will make you to remember it. And your Buſineſs is to enquire, what hath been the quickning and enlivening Verture and
+<pb n="17" facs="tcp:30798:11"/>Power of the word upon your Souls. We Preach the Goſpel, and we are not aſhamed of it, for it is the Power of God unto Salvation to every one that believes. Hath it been productive of ſuch a thing as Faith in your Souls, that purifies the heart, apprehends Chriſt, and all that is in Chriſt? Hath the word come with Life and Power to you, and cauſed Life in your Souls? 1 Theſſ. 1.5. <hi>Our Goſpel,</hi> ſaith he, <hi>came not in word only, but in power,</hi> &amp;c. Pray inquire into that.</p>
+            <p>And if the word of God lives, tho the Miniſter dye, then really it will be of ſome effect or other to you all; either a <hi>ſavour of life unto life,</hi>
+               <note place="margin">2 Cor. 2.14, 15, 16.</note> 
+               <hi>or of death unto death. Thanks be to God, that makes us to tri<g ref="char:EOLhyphen"/>umph.</hi> —The Goſpel will be of ſome uſe when we are gone; either a <hi>ſavour of life unto life, or of death unto death.</hi>
+            </p>
+            <p>Nay, let me ſay this, Becauſe the Word lives, tho the Prophets dye, the Word of God will follow you to Judgment, and there will meet you when you come up from the dead, and it may be God's Pro<g ref="char:EOLhyphen"/>phets will be a Cloud of Witneſſes againſt you. John 12.48. <hi>He that rejecteth me, and receives not my words,</hi> there's one that judgeth him; <hi>the word that I have ſpoken, the ſame ſhall judge him in the laſt day.</hi> The word lives till you come to Judgment, and then will decide your Condition, Chriſt will do it according to the word.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> (3.) One thing more, <hi>[The Prophets dye.]</hi> I will ſpeak one thing for your Comfort, and that is, Chriſt lives; Miniſters dye, but Chriſt lives.
+<pb n="18" facs="tcp:30798:12"/>
+               <hi>He was once dead, but he is alive, and lives for ever<g ref="char:EOLhyphen"/>more.</hi> And he lives, as the great Prophet raiſed up by God. As one ſaid of the Prophets, Who is their Father? He that is the Father of Eternity. (Iſaiah 9.) <hi>He is alive.</hi> Hebr. 7.23. <hi>They were not ſuffer<g ref="char:EOLhyphen"/>ed to continue by reaſon of death.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>But this Man, be<g ref="char:EOLhyphen"/>cauſe he hath an unchangeable Prieſthood, lives for ever.</hi> He hath an Office that doth not paſs from him to another. <hi>The Prophets dye,</hi> Miniſters dye; that that is the Spring of Conſolation, is, Chriſt lives. He lives to reward your Faith and Perſeve<g ref="char:EOLhyphen"/>rance. You that have believed upon hearing the word of Truth, the Goſpel of Salvation, he lives to reward that Faith, and your perſevering in that Faith. Come! hold on in Faith, in Holineſs, in the Order and Fellowſhip of the Goſpel, (that which this Servant of Chriſt ſo much deſired in his going off.) Chriſt lives to reward your Conſtancy, <hi>Recei<g ref="char:EOLhyphen"/>ving the end of your faith, the ſalvation of your ſouls,</hi> 1 Peter 1.9.</p>
+            <p>And then, that he lives too, it is to give us more Prophets, to raiſe up more Prophets for us, and to make ſome able Miniſters of the <hi>New Teſtament,</hi> And truely they are only of Chriſt's making. We have no ſufficiency of our ſelves for this Work. He gives Paſtors and Teachers for the Work of the Miniſtry. He is aſcended for it. And I would, all that meddle with that Work, were of his giving, Amos 2.11. <hi>I raiſed up of your ſons for Prophets.</hi> (I raiſed them up.) He is alive. He can raiſe up Pro<g ref="char:EOLhyphen"/>phets for you; he can raiſe up your Sons to be Pro<g ref="char:EOLhyphen"/>phets.</p>
+            <p>
+               <pb n="19" facs="tcp:30798:12"/>
+I have now but a little more to ſay. As for our Honoured and Beloved Brother fallen aſleep in Je<g ref="char:EOLhyphen"/>ſus. A great man is fallen in our <hi>Iſrael,</hi> a Prophet; yea more than a Prophet; an able Miniſter of the <hi>New Teſtament.</hi>
+               <note place="margin">2 Cor. 4.4, 6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Conſider him as to his knowledg in the Myſtery of Chriſt, and it was rich and great. God had ſo divinely irradiated his Mind and Heart, by giving him the knowledg of his Glory in the Face of Chriſt, that he was well able to Preach the unſearchable Riches of Chriſt to the <hi>Gentiles;</hi> and to make all Men ſee what is the Fellowſhip of this Myſtery. You that knew him, underſtood his know<g ref="char:EOLhyphen"/>ledg in that Myſtery. As to his way of Preaching, though it ſeemed leſs methodical, yet truely when I have ſometimes conſidered it, it hath appeared to me (at leaſt): Apoſtolical, Primitive, and Divine. He knew, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> So to ſpeak as <hi>Acts</hi> 14. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>That a great multitude believed;</hi> and his words being moſtly thoſe of the Holy Ghoſt, they had a quick and penetrating Power and Ef<g ref="char:EOLhyphen"/>ficacy with them. So that in his Miniſtry, he was wont to <hi>commend himſelf to the conſcience of every one before God.</hi> His Bow abode in ſtrength,<note place="margin">2 Cor. 4.2.</note> and his Hands were made ſtrong by the Hands of the Mighty God of <hi>Jacob.</hi> His Arrows ſharp in the hearts of the Kings Enemies, whereby the People fell under Chriſt.</p>
+            <p>As to the diſcharge of his Miniſtry, he was much in Labours, and Indefatigable. If it might not be an Offence, I think I might almoſt ſay, He labour<g ref="char:EOLhyphen"/>ed more than us all. He was, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (1 <hi>Tim.</hi> 5.17.) and therefore hath Ho<g ref="char:EOLhyphen"/>nour, <hi>double, honour,</hi> and that from above. He did <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,— labour much, and in many things,
+<pb n="20" facs="tcp:30798:13"/>and not in vain. He did not labour in vain, nor ſpend his ſtrength for nought, for he had great ſuc<g ref="char:EOLhyphen"/>ceſs. Chriſt had choſen him to be a Veſſel to bear his Name; and he brought forth Fruit that remain<g ref="char:EOLhyphen"/>ed, which ſhall be his Joy and Crown of rejoy<g ref="char:EOLhyphen"/>cing in the day of Chriſt. In the Houſe of God he knew how to behave himſelf, and was faithful to him that appointed him; and therefore had Ho<g ref="char:EOLhyphen"/>nour. And though ſometimes he might ſeem to have too much of the Spirit and Power of <hi>Elias</hi> with him, yet it was tempered with the ſweetneſs and gentleneſs of the Goſpel. His Affection to the Houſe of God, was ſuch, that the Zeal of it eat him up: And there was no greater rejoycing to him, than to ſee Perſons walk according to the Conſti<g ref="char:EOLhyphen"/>tution, Frame, and Order of Chriſt in the <hi>New Te<g ref="char:EOLhyphen"/>ſtament.</hi> Nothing more afflicting, than to ſee any turn aſide to crooked Paths. As for his Converſa<g ref="char:EOLhyphen"/>tion, it was holy, it was heavenly. His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his Citizenſhip was in Heaven,<note place="margin">Phil. 3.20.</note> from whence he looked for a Saviour. So that the Character that is proper to a Biſhop of the <hi>New Teſtament,</hi> was found with him, 1 <hi>Tim.</hi> 3. He was <hi>blameleſs, vigilant, ſo<g ref="char:EOLhyphen"/>ber, of good behaviour, given to hoſpitality, apt to teach.</hi> His Converſation was a continual teaching. Pray! do you obſerve the end of it? And as for his Sufferings, they did nothing move him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the Apoſtle, <hi>Acts</hi> 20.24. I make not a word of theſe things. <hi>Bonds and afflictions abide me in every place; but none of theſe things move me.</hi> I do not make a word of them. He was ſet for the Apology and Defence of the Goſpel. And as in the Courſe of his Miniſtry (I ſpeak as one intimately acquainted with him) as in the Courſe
+<pb n="21" facs="tcp:30798:13"/>of his Miniſtry he had the ſpirit of Power, Love, and a ſound Mind; ſo in his Afflictions and Perſe<g ref="char:EOLhyphen"/>cutions the ſpirit of God and Glory did reſt upon him. To ſum up all, You that were inwardly ac<g ref="char:EOLhyphen"/>quainted with him, you fully knew his Doctrine, a <hi>Tim.</hi> 3.10, 11. <hi>You have fully known his Doctrine, manner of life, purpoſe, faith, long-ſuffering, charity, patience, perſecution, afflictions: But out of them all the Lord hath delivered him.</hi>
+            </p>
+            <p>But you will ſay, What was the reaſon of God's dark and ſevere diſpenſation towards him in his lat<g ref="char:EOLhyphen"/>ter days? Truly I am not in God's ſtead to give you an account of his matters; the Lord doth ſave men upon the point of Soveraign Grace, and God doth exerciſe the ſame dominion in his Providence; and ſometimes will laugh at the very trial of the Innocent. His ways and judgments even towards his own are unſearchable and paſt finding out. Let us ſanctifie the Lord God of Hoſts in our hearts, and fear before him. <hi>Phil.</hi> 3.10. <hi>That I may know the fellowſhip of his ſufferings.</hi> The Apoſtle diſcerned that the ſufferings of Chriſt were attended with de<g ref="char:EOLhyphen"/>ſertion and darkneſs. <hi>My God, my God, why haſt thou forſaken me?</hi> And for a time that Man ſo dear to his Father, being his Eternal Son, yet he had loſt that joy and delectation which the fruition of God, and the fulneſs of Grace was wont to afford him. It may be thus with his Miniſters, and if it be, they have but a fellowſhip with him in his ſuffer<g ref="char:EOLhyphen"/>ings. But now bleſſed be God that the Sun brake out of the Cloud: God did not let him die in the dark, but brought his ſoul to peace and reſt; and to a rejoycing in God's Eternal love to him. The Sun of Righteouſneſs did ariſe before he gave up the Ghoſt.
+<pb n="22" facs="tcp:30798:14"/>The <hi>Sun of Righteouſneſs did ariſe upon him with heal<g ref="char:EOLhyphen"/>ing under his wings;</hi> that gave him an abundant en<g ref="char:EOLhyphen"/>trance into the Heavenly Kingdom. Chriſt hath ſhewed all his dealings with him for ſeveral years, (not all ſpringing from a Divine hand, but natural cauſes as <hi>Hypocondria,</hi> &amp;c.) yet he hath ſhewed that they were ſuch as were conſiſtent with the Eternal Love of God, to make him partaker of his Holi<g ref="char:EOLhyphen"/>neſs; and Chriſt having loved him as his own, and loved him to the end, (to Perfection) has loved him into Glory. There we leave him, till the Bleſſed Glorious Reſurrection.</p>
+         </div>
+         <div type="poem">
+            <pb n="23" facs="tcp:30798:14"/>
+            <head>VERSES upon the Death of the Reverend Brother Mr. FRANCIS HOLCROFT, Paſtor of the Church in <hi>Cambridgeſhire;</hi> Who Died at <hi>Triplow</hi> in <hi>Cambridgeſhire,</hi> on <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> 1691/2.</head>
+            <l>HE none of the Minor Prophets was, he's dead:</l>
+            <l>This Age ſaw not a better hearted-head.</l>
+            <l>Prophet die muſt,<note place="margin">Zech. 1.5.</note> his Preaching that takes hold</l>
+            <l>Of thouſand hearts; the fruit's a hundred fold:</l>
+            <l>Round all the Coaſts of <hi>Cambridge</hi> where ye come,</l>
+            <l>
+               <note place="margin">Rom. 15.19.</note>You'l hear of'sTrophies to <hi>Illyricum.</hi>
+            </l>
+            <l>Satan in's ſeat ſang with his Antick Chore,</l>
+            <l>
+               <note place="margin">Rev. 2.13.</note>To ſee the Funerals of the Conqueror:</l>
+            <l>Yet <hi>Cambridge</hi> know, as he ſaid in his days,</l>
+            <l>
+               <note place="margin">Zech. 1.6.</note>God will deal with you according to your ways.</l>
+            <l>E'er lives this Prophet, Immortal ſpirit,</l>
+            <l>(If ever any) I would ſay there's merit.</l>
+            <l>So richly holy, and Angelick Saint,</l>
+            <l>Babies and Dwarfs we're all to this Giant.</l>
+            <l>Alas a Prince, a King, great General,</l>
+            <l>Highly Anointed's fallen in <hi>Iſrael.</hi>
+            </l>
+            <l>He wore out's body in theſe holy Wars,</l>
+            <l>'Twas bruiſed, wounded, full of mortal ſears;</l>
+            <l>
+               <pb n="24" facs="tcp:30798:15"/>
+O bleſſed Soldier! hardſhip did endure,</l>
+            <l>Behov'd thy Brethren all, not <hi>Sine Cure,</hi>
+            </l>
+            <l>And wholly ſpent thou was, and ſtill did ſpend,</l>
+            <l>Until thy Humour-radical did end.</l>
+            <l>We ſaw's dead Body perfect Skelliton,</l>
+            <l>Like that which's tackt up by Chyrurgeon.</l>
+            <l>His houſe of Clay did crumble into mould,</l>
+            <l>His Heav'n-born ſoul no longer dwell in't could:</l>
+            <l>A Glorious Houſe made without hands on high,</l>
+            <l>Poſſeſs'd he's of unto eternity.<note place="margin">2 Cor. 5.1. His Dying words. Deut. 34.1, 2, 3, 4.</note>
+            </l>
+            <l>In this like <hi>Moſes</hi> had Mount <hi>Piſgah's</hi> Ken,</l>
+            <l>A clear and perfect Landskip of <hi>Canaan:</hi>
+            </l>
+            <l>Unlike to <hi>Moſes,</hi> he ſoon went to it,</l>
+            <l>When as to <hi>Moſes</hi> the Lord would only ſhow it.</l>
+            <l>What Rabbies ſaid of <hi>Moſes</hi>'s verifi'd,</l>
+            <l>God kiſſed <hi>Francis Holcroft,</hi>
+               <note place="margin">Deut. 34.5.</note> and he di'd.</l>
+            <l>As Mother th' Child dandles upon her lap,</l>
+            <l>Her Cheek by'ts Cheek until it takes a nap.</l>
+            <l>He's but a ſleep, i'th morning you'l him ſee,</l>
+            <l>
+               <note place="margin">Heb. 12.23. Phil. 2.20. 2 Cor. 3.7.</note>I'th Church of th' firſt born where he lov'd to be.</l>
+            <l>O for ſuch Preachers, Lord, ſend thou an hoſt,</l>
+            <l>Trebly anointed with the Holy Ghoſt.</l>
+            <l>That Satan lightning he from Heaven be caſt,</l>
+            <l>
+               <note place="margin">Luk. 10.18. Zech 4.11, 12.</note>That <hi>Cambridge</hi> Candleſtick in glory laſt:</l>
+            <l>With Golden Oyl through Golden Pipes ſuppli'd,</l>
+            <l>With two anointed ones o'th' left right ſide,</l>
+            <l>From the Olive-tree the moſt Anointed one;</l>
+            <l>And let the Man the Branch build Temple on:</l>
+            <l>And let him bear the Glory,<note place="margin">Zech. 6.12.</note> worthy he,</l>
+            <l>God's ſpotleſs Lamb ſlain for Iniquity.</l>
+            <l>Father why did thy noble Child of Light</l>
+            <l>In darkneſs walk?<note place="margin">Iſa. 50.10.</note> why cry'd ſo in the night,</l>
+            <l>So long, ſo oft? why ſtood'ſt behind the wall?</l>
+            <l>Thou kneweſt he would importunately call,<note place="margin">Cant. 2.9.</note>
+            </l>
+            <l>
+               <pb n="25" facs="tcp:30798:15"/>
+And give no reſt, but cry Father, <hi>Abba.</hi>
+            </l>
+            <l>More inſtantly did never any pray.</l>
+            <l>How was his Note chang'd! he had midnight Song,</l>
+            <l>A <hi>Philomele,</hi> tho pricking Thorns among.</l>
+            <l>Jayl-birds, with <hi>Silas,</hi> in <hi>Cambridge</hi> Caſtle ſings:</l>
+            <l>But in God's Priſon his <hi>Lark</hi>-like warblings</l>
+            <l>Do ceaſe, O <hi>Jehovah!</hi> righteous Soveraign!</l>
+            <l>To all thy Matters anſwers not again.</l>
+            <l>Why <hi>Job,</hi> why <hi>Jeremiah,</hi>
+               <note place="margin">Job 33.13.</note> curſe their Birth-day ſhine?</l>
+            <l>Higheſt Reaſon's Soveraign Will Divine.</l>
+            <l>O deepeſt Depths of wiſeſt Providence!</l>
+            <l>
+               <hi>Jonah</hi> i'th <hi>Whales</hi> Belly,<note place="margin">Jonah 2.1.</note> and prays from thence,</l>
+            <l>And was preſerved, caſt alive o'th' Shore:</l>
+            <l>O bleſt be Chriſt, O bleſt for evermore.</l>
+            <l>O bleſt Martyr, beautiful to ſee;</l>
+            <l>Conformed to'th Pattern in thy Agony</l>
+            <l>Before thy Death, in ſtrong Cries and in Tears;</l>
+            <l>And thou was heard in thy believing Fears.</l>
+            <l>Ceaſe now, O Lord, a while, let 'lone the reſt,</l>
+            <l>We are ſure, of Miniſters,<note place="margin">Heb. 5.7.</note> thou haſt the beſt.</l>
+         </div>
+         <div type="poem">
+            <head>Some Verſes made upon the Death of the Eminent and Reverend Servant of Chriſt in the Miniſtry of the Goſpel, Mr. <hi>Fran<g ref="char:EOLhyphen"/>cis Holcraft.</hi>
+            </head>
+            <l>ALas the Chariots and the Horſemen's gone,</l>
+            <l>How can the War be longer carried on</l>
+            <l>'Gainſt Antichriſt! Jeſus! let's Mantle fall,</l>
+            <l>Of Power, of Zeal, of Gifts, of Graces, all</l>
+            <l>
+               <pb n="26" facs="tcp:30798:16"/>
+Which cloathed him upon the Infantry:</l>
+            <l>O let <hi>Paul</hi>'s Spirit reſt on <hi>Timothy.</hi>
+            </l>
+            <l>We ſaw him long aſcending far above;</l>
+            <l>His Brethren thought ſtill that he would remove</l>
+            <l>Out of our ſight to Heaven, there to view</l>
+            <l>
+               <hi>Jeruſalem,</hi> Celeſtial City new,</l>
+            <l>Where he was free born; when he Preaches next,</l>
+            <l>How ſweetly will he Comment on that Text!</l>
+            <l>
+               <hi>Holcraft</hi> and <hi>Oddy,</hi> they neither could</l>
+            <l>The Evangelick Myſteries unfold,</l>
+            <l>Until commenc'd, they had took a Degree</l>
+            <l>In the Celeſtial Univerſity:</l>
+            <l>Both Learning, Piety, had been withſtood,</l>
+            <l>But for a <hi>Commendamus</hi> in Chriſt's Blood.</l>
+            <l>Lord ſtay thine hand, and let alone the reſt;</l>
+            <l>Thou haſt him now, I'm ſure, which lov'd thee beſt.</l>
+            <l>
+               <hi>Luther</hi> ne're di'd till now; glorious free Grace</l>
+            <l>Engraven was in's heart, in's head, in's face;</l>
+            <l>In broader, fairer, deeper Characters than can</l>
+            <l>Be found in any preaching, praying Man.</l>
+            <l>Pope ſings <hi>Te Deum, Oxford</hi> and <hi>Cambridge</hi> Friends,</l>
+            <l>Blind <hi>Quakers</hi> Gifts unto each other ſends.</l>
+            <l>
+               <hi>Atheiſts</hi> make merry. <hi>Arminians</hi> Wills are free,</l>
+            <l>
+               <hi>Holcraft</hi> no Tomb ſhould have, but Calumny.</l>
+            <l>Darkneſs that can be felt, who can but fear,</l>
+            <l>While ſuch a ſparkling Star doth diſappear,</l>
+            <l>As <hi>Holcroft</hi> was, dazling the envious Eye</l>
+            <l>Of ſpurious Chriſtian, Grace's enemy.</l>
+            <l>Did we not know't of Riſing Sun, a ſign</l>
+            <l>When all the Stars i'th' Sky no longer ſhine.</l>
+            <l>O gracious Saint, how did thy Count'nance ſhine?</l>
+            <l>Behold Mount <hi>Sinai</hi>'s Preachers; great Divine.</l>
+            <l>Thy Feet were beautiful, I could have kiſt</l>
+            <l>The Soles thereof, O ſweet Evangeliſt!</l>
+            <l>
+               <pb n="27" facs="tcp:30798:16"/>
+How Glorious is that Sun of Righteouſneſs,</l>
+            <l>Whoſe Rays reflected, makes a Saint no leſs</l>
+            <l>Than an Illuſtrious, Conquering, Princely King?</l>
+            <l>Such <hi>Holcraft</hi> was; <hi>Iſrael</hi> in wraſtling;</l>
+            <l>Who ever did the Spirit of Faith more bold</l>
+            <l>In Prayer with God, than in this Man behold?</l>
+            <l>Such Liberty, ſuch Life, ſuch Light he had;</l>
+            <l>Weak ones offended, wicked ſays he's mad.</l>
+            <l>Lament you Miniſters of Chriſt; he was</l>
+            <l>For Doctrine, <hi>Paul;</hi> for Comfort, <hi>Barnabas;</hi>
+            </l>
+            <l>He was <hi>Apollos,</hi> ſo mighty in the Word;</l>
+            <l>He was a <hi>John</hi> for Love unto his Lord;</l>
+            <l>A <hi>Timothy,</hi> he naturally did care</l>
+            <l>For Truth, while others minded their Affair.</l>
+            <l>
+               <hi>Boanarges</hi> in the Law, by dreadful Thunder,</l>
+            <l>Struck down his hearers, rent their hearts aſunder.</l>
+            <l>He was a <hi>Moſes,</hi> in the Mount did ſtay,</l>
+            <l>I never heard one at that rate to pray.</l>
+            <l>Some ſingle Gifts in others may have been,</l>
+            <l>But Conſtellations were in <hi>Holcroft</hi> ſeen:</l>
+            <l>Perfections take from one, then from another,</l>
+            <l>They all did Center in this bleſſed Brother.</l>
+            <l>With what great Scripture plainneſs did he Preach?</l>
+            <l>With what Majeſtick boldneſs did he Teach?</l>
+            <l>He Giant-like came forth to run his Race,</l>
+            <l>Being firmly girt with Apoſtolick Grace.</l>
+            <l>He was made of God, a fenced Brazen Wall,</l>
+            <l>Strong to recieve the Gun-ſhot great and ſmall.</l>
+            <l>His Doctrines Chriſt, his Natures, Offices,</l>
+            <l>Faith in his Blood, and then right Holineſs.</l>
+            <l>
+               <hi>Cambridge,</hi> Chriſt lent him for a time to thee,</l>
+            <l>A Pattern for thy Preachers he ſhould be.</l>
+            <l>Look on this Copy fairly writ, and mend</l>
+            <l>Your hands, then Chriſt your Lord will you commend.</l>
+            <l>
+               <pb n="28" facs="tcp:30798:17"/>
+O quit your ſelves like Men, be cloath'd with Zeal;</l>
+            <l>Concern your ſelves with <hi>Iſrael</hi>'s Commonweal.</l>
+            <l>Be ſtrong in power, in Love, in Goſpel-word,</l>
+            <l>Cut every Man with that two-edged Sword.</l>
+            <l>Be bold as Lyons, like this Man of God;</l>
+            <l>Daſh them in pieces with that powerful Rod.</l>
+            <l>O! let his People know that joyful ſound,</l>
+            <l>And in their heart and lives let it abound.</l>
+            <l>Which like to <hi>Aaron</hi>'s Bells, did's feet ſurround</l>
+            <l>In every place where he did tread the ground:</l>
+            <l>This noiſe of Peace did to the Saints redound.</l>
+            <l>
+               <hi>Holcroft</hi> of Preachers, for Faith, for Zeal the beſt;</l>
+            <l>I'll only ſay, he's Dead, and weep the reſt.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
